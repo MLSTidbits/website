@@ -1,7 +1,6 @@
 baseURL: https://SolarLinux.org/
 languageCode: en-us
 title: MLS Tidbits
-theme: hextra
 
 menu:
   main:
@@ -41,8 +40,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo.svg
+      path: /images/logo.svg
+      dark: /images/logo.svg
       link: /
       width: 20
       height: 20
