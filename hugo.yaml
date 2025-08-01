@@ -1,6 +1,6 @@
 baseURL: https://SolarLinux.org/
 languageCode: en-us
-title: SolarLinux
+title: MLS Tidbits
 theme: hextra
 
 menu:
@@ -8,6 +8,9 @@ menu:
     - name: Documentation
       pageRef: /docs
       weight: 1
+    - name: Download
+      pageRef: /downloads
+      weight: 1.5
     - name: Blog
       pageRef: /blog
       weight: 2
@@ -20,7 +23,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/SolarLinux"
       params:
         icon: github
 
@@ -32,9 +35,6 @@ menu:
     - name: "About"
       pageRef: "/about"
       weight: 2
-    - name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 3
 
 params:
   navbar:
@@ -47,8 +47,70 @@ params:
       width: 20
       height: 20
 
-params:
   theme:
     # light | dark | system
     default: system
     displayToggle: false
+
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+      # Pagination
+      pagerSize: 20
+
+    article:
+      displayPagination: true
+
+  toc:
+    displayTags: true
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+
+  page:
+    # full (100%), wide (90rem), normal (80rem)
+    width: normal
+    # tabs:
+    #   sync: true
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
