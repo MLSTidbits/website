@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2025-07-30T20:19:56-06:00
-draft: true
+draft: false
 featuredImage: ""
 externalLink: ""
 ---
