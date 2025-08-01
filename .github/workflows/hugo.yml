@@ -35,8 +35,6 @@ jobs:
     steps:
       - name: Install Hugo CLI
         run: sudo snap install hugo
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -51,9 +49,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          ./build.sh "${{ steps.pages.outputs.base_url }}"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
