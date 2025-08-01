@@ -2,7 +2,7 @@
 title: Manpages
 weight: 1
 sidebar:
-  open: true
+  open: false
 ---
 
 {{< cards >}}

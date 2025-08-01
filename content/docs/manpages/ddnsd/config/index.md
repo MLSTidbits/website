@@ -1,9 +1,8 @@
 ---
 title: Configuration
-date: 2025-08-01T05:17:45-06:00
-draft: true
-featuredImage: ""
-externalLink: ""
+weight: 2
+tags:
+  - ddnsd
 ---
 
 ## NAME

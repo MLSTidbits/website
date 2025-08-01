@@ -1,10 +1,8 @@
 ---
 title: Manual
-weight: 1
-date: 2025-08-01T08:54:06-06:00
-draft: true
-featuredImage: ""
-externalLink: ""
+weight: 2
+tags:
+  - grub-btrfsd
 ---
 
 ## NAME

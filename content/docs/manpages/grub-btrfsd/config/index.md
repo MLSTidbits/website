@@ -1,10 +1,8 @@
 ---
 title: Configuration
 weight: 2
-date: 2025-08-01T08:54:20-06:00
-draft: true
-featuredImage: ""
-externalLink: ""
+tags:
+  - grub-btrfsd
 ---
 
 ## NAME
