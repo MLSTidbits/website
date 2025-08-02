@@ -22,7 +22,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/SolarLinux"
+      url: "https://github.com/MLSTidbits"
       params:
         icon: github
 
@@ -113,3 +113,21 @@ markup:
           block: [['\[', '\]'], ['$$', '$$']]
           inline: [['\(', '\)']]
         enable: true
+
+comments:
+    enable: false
+    type: giscus
+
+    # https://giscus.app/
+    giscus:
+      repo: MLSTidbits/website
+      repoId: R_kgDOPWxVpQ
+      category: Announcements
+      categoryId: DIC_kwDOPWxVpc4Ctr99
+      mapping: pathname
+      strict: 0
+      reactionsEnabled: 1
+      emitMetadata: 0
+      inputPosition: top
+      lang: en
+      theme: noborder_dark
