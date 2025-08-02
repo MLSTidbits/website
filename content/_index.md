@@ -18,15 +18,18 @@ layout: hextra-home
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Learn More" link="docs" >}}
+{{< hextra/hero-button text="Get In Volved" link="https://repair.org/" >}}
 </div>
 
-<div class="hx:mt-6"></div>
+<div class="hx:mt-6">
+
+</div>
 
 {{< hextra/feature-grid >}}
+
   {{< hextra/feature-card
     title="Right to Repair"
-    subtitle="Empowering users to fix and modify their devices"
+    subtitle="Empowering users to fix and modify their devices."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     image="/images/right-to-repair.png"
     imageClass="hx:top-[40%] hx:left-[24px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
