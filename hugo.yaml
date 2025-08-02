@@ -115,7 +115,7 @@ markup:
         enable: true
 
 comments:
-    enable: false
+    enable: true
     type: giscus
 
     # https://giscus.app/
