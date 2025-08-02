@@ -8,6 +8,7 @@ tags:
   - Linux
   - Desktop Environment
 excludeSearch: false
+draft: false
 ---
 
-
+**Linux** has a desktop environment problem and that is there are too many to choose from with even more configurations to choose from. This can be overwhelming for new users who are trying to find the right desktop environment for their needs.
