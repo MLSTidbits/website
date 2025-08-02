@@ -34,13 +34,7 @@ Just like [GNOME](https://www.gnome.org/) the [KDE](https://kde.org/) desktop en
 
 ### Download the Kubuntu 24.04 ISO
 
-The first step is to download the Kubuntu 24.04 ISO from the [Kubuntu website](https://kubuntu.org/). You can download the ISO from the website or use the following command to download it from the commandline:
-
-```bash
-wget -c https://cdimage.ubuntu.com/kubuntu/releases/24.04.1/release/kubuntu-24.04.1-desktop-amd64.iso
-```
-
-For faster download speeds you can use a torrent client to download the ISO. You can find the torrent file on the [Kubuntu](https://kubuntu.org/) website or just click [here](https://cdimage.ubuntu.com/kubuntu/releases/noble/release/kubuntu-24.04.1-desktop-amd64.iso.torrent) to download the torrent file.
+One of the things that I like about official Ubuntu flavors is that is easy to find the ISO file for the latest version. You can download the Kubuntu 24.04 ISO from the [Kubuntu website](https://kubuntu.org/getkubuntu/).
 
 ### Create a Bootable USB Drive
 
