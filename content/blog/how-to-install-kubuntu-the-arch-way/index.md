@@ -6,8 +6,8 @@ tags:
   - installation guide
   - linux
   - desktop environment
-date: 2025-08-01T09:40:18-06:00
-draft: true
+date: 2024-12-20T15:46:40-07:00
+draft: false
 authors:
   - name: Michael Schaecher
     image: /authors/Michael.jpg
@@ -18,7 +18,7 @@ excludeSearch: false
 
 Over the last few years, 15 years give or take 3 year when I was forced to use Windows. I've tried a number of different Linux distributions. Starting with [Ubuntu](https://ubuntu.com/), then tried [Arch Linux](https://archlinux.org/), but I've gone back to Ubuntu mostly because I like having to not fight setting up a all-in-one printer/scanner.
 
-I did however like installing by way of the commandline so I started installing Ubuntu the same way and that is how I installed Kubuntu 24.04. So in this post I will show you how I installed Kubuntu 24.04 using the commandline and how I create a custom [BTRFS](https://btrfs.wiki.kernel.org/index.php/Main_Page) partition subvolume layout. This became a necessity because the installer does not support BTRFS subvolumes properly, this is especially true for **Ubuntu** new installer.
+I did however like installing by way of the commandline so I started installing Ubuntu the same way and that is how I installed Kubuntu 24.04. So in this post I will show you how I installed Kubuntu using the commandline and how I create a custom [BTRFS](https://btrfs.wiki.kernel.org/index.php/Main_Page) partition subvolume layout. This became a necessity because the installer does not support BTRFS subvolumes properly, this is especially true for **Ubuntu** new installer.
 
 > This guide well be using UEFI and GPT partition table for the installation mostly because that is default for most computers for the last 10 years. If you are needing to install using BIOS and MBR the grub installation will be different.
 
