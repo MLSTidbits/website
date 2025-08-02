@@ -1,19 +1,17 @@
 ---
 title: How to Install Kubuntu the Arch Way
-description: A step-by-step guide to installing Kubuntu using the Arch Linux installation method.
 tags:
-    - kubuntu
-    - arch linux
-    - installation guide
-    - linux
-    - desktop environment
-weight: 3
+  - kubuntu
+  - arch linux
+  - installation guide
+  - linux
+  - desktop environment
 date: 2025-08-01T09:40:18-06:00
 draft: true
 authors:
   - name: Michael Schaecher
-    link: https://github.com/MichaelSchaecher
-    image: https://github.com/michaelschaecher.png
+    image: /authors/Michael.jpg
+excludeSearch: false
 ---
 
 ## Introduction

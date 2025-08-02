@@ -3,11 +3,9 @@ title: {{ replace .File.ContentBaseName "-" " " | title }}
 date: {{ .Date }}
 authors:
   - name: Michael Schaecher
-    link: https://github.com/MichaelSchaecher
-    image: https://github.com/imfing.png
+    image: /authors/Michael.jpg
 tags:
-  - Markdown
-  - Example
-  - Guide
-excludeSearch: true
+  - Linux
+  - Desktop Environment
+excludeSearch: false
 ---
