@@ -8,7 +8,7 @@ tags:
   - Linux
   - Desktop Environment
 excludeSearch: false
-draft: false
+draft: true
 ---
 
 ## The Choice/Customization Doesn't Sale
@@ -36,4 +36,6 @@ That is only about half of the desktop environments that are available for Linux
 
 The desktop environment problem in Linux has its roots in the early days of the operating system. When Linux was first created, it was primarily used by developers and enthusiasts who were comfortable with command-line interfaces. As Linux grew in popularity, especially among desktop users, the need for user-friendly graphical interfaces became apparent.
 
-The first DE to be widely adopted was KDE and if it stopped there we would not have the problem we have today.
+The first DE to be widely adopted was KDE and if it stopped there we would not have the problem we have today. However, GNOME soon followed, and with it came a wave of new desktop environments. Each new DE was created to address perceived shortcomings in existing ones, leading to a proliferation of options.
+
+
