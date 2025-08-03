@@ -46,6 +46,24 @@ params:
       width: 20
       height: 20
 
+  comments:
+    enable: true
+    type: giscus
+
+    # https://giscus.app/
+    giscus:
+      repo: MLSTidbits/website
+      repoId: R_kgDOPWxVpQ
+      category: Announcements
+      categoryId: DIC_kwDOPWxVpc4Ctr99
+      mapping: pathname
+      strict: 0
+      reactionsEnabled: 1
+      emitMetadata: 0
+      inputPosition: top
+      lang: en
+      theme: noborder_dark
+
   theme:
     # light | dark | system
     default: system
@@ -114,20 +132,4 @@ markup:
           inline: [['\(', '\)']]
         enable: true
 
-comments:
-    enable: true
-    type: giscus
 
-    # https://giscus.app/
-    giscus:
-      repo: MLSTidbits/website
-      repoId: R_kgDOPWxVpQ
-      category: Announcements
-      categoryId: DIC_kwDOPWxVpc4Ctr99
-      mapping: pathname
-      strict: 0
-      reactionsEnabled: 1
-      emitMetadata: 0
-      inputPosition: top
-      lang: en
-      theme: noborder_dark
