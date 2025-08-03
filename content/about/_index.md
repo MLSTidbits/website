@@ -4,6 +4,7 @@ date: 2025-07-30T20:19:56-06:00
 draft: false
 featuredImage: ""
 externalLink: ""
+comments: false
 ---
 
 We at **MLS Tidbits** are passionate about sharing knowledge and insights related _Open Source_, _Right to Repair_ and _Sustainability_. Our mission is to provide valuable resources and information that empower individuals and communities to make informed decisions about technology and its impact on our world.

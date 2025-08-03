@@ -3,6 +3,7 @@ title: Configuration
 weight: 2
 tags:
   - ddnsd
+comments: false
 ---
 
 ## NAME

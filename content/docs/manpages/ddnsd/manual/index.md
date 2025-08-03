@@ -3,6 +3,7 @@ title: Manual
 weight: 1
 tags:
   - ddnsd
+comments: false
 ---
 
 ## NAME

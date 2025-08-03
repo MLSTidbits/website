@@ -3,6 +3,7 @@ title: Manual
 weight: 2
 tags:
   - grub-btrfsd
+comments: false
 ---
 
 ## NAME

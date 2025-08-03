@@ -3,6 +3,7 @@ title: DDNSD
 weight: 1
 sidebar:
   open: false
+comments: false
 ---
 
 {{< cards >}}

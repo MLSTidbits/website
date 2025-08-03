@@ -3,6 +3,7 @@ date: '2025-07-30T19:25:05-06:00'
 draft: false
 title: Hextra Theme
 layout: hextra-home
+comments: false
 ---
 
 <div class="hx:mt-6 hx:mb-6">

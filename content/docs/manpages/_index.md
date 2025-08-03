@@ -3,6 +3,7 @@ title: Manpages
 weight: 1
 sidebar:
   open: false
+comments: false
 ---
 
 {{< cards >}}
