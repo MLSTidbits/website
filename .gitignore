@@ -1,6 +1,6 @@
 public/
 
-node_modules/
+# node_modules/
 resources/
 package.json
 package-lock.json
