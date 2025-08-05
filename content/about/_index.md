@@ -26,6 +26,6 @@ We invite you to join us on this journey. Whether you're a developer, a tech ent
 
 If you have any questions, suggestions, or would like to collaborate, please feel free to reach out to us. You can contact us via
 
-**Email**: contect@mlstidbits.com
+**Email**: contact@mlstidbits.com
 
 **GitHub**: [MLS Tidbits](https://github.com/mlstidbits)
