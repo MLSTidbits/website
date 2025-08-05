@@ -30,4 +30,4 @@ The website is a collection of tidbits, tips, and tricks that I have found usefu
 
 If you find something that is incorrect, or you have a suggestion for improvement, please feel free to leave a comment on the post, or open an issue on the [GitHub repository](https://github.com/MLSTidbits/website/issues) for this site.
 
-If you would like to contribute directly, please send me an [email](contact@mlstidbits.com). I would be happy to add you as a contributor to the repository.
+If you would like to contribute directly, please send me an email at contact@mlstidbits.com. I would be happy to add you as a contributor to the repository.
