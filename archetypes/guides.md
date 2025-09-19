@@ -5,9 +5,9 @@ authors:
   - name: Michael Schaecher
     image: /authors/Michael.jpg
 tags:
-  - blog
-  - Technology
-  - A.I.
-  - Gadgets
+  - O.S.
+  - Linux
+  - Desktop Environment
+  - Howto
 excludeSearch: false
 ---

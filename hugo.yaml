@@ -13,15 +13,18 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
+    - name: Guides
+      pageRef: /guides
+      weight: 3
     - name: About
       pageRef: /about
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/MLSTidbits"
       params:
         icon: github
