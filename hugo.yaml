@@ -4,12 +4,6 @@ title: MLS Tidbits
 
 menu:
   main:
-    - name: Documentation
-      pageRef: /docs
-      weight: 1
-    - name: Download
-      pageRef: /downloads
-      weight: 1.5
     - name: Blog
       pageRef: /blog
       weight: 2
