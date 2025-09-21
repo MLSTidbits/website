@@ -93,6 +93,15 @@ params:
       # Pagination
       pagerSize: 20
 
+  guides:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+      # Pagination
+      pagerSize: 20
+
     article:
       displayPagination: true
 
