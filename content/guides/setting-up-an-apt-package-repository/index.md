@@ -130,7 +130,7 @@ gpg --full-generate-key
 Export your public key to a file:
 
 ```bash
-gpg --armor --export > keyrings/myrepo.gpg
+gpg --armor --export "Name of Your Key" > keyrings/myrepo.gpg
 ```
 
 Now sign the `Release` file:
