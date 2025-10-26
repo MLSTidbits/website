@@ -10,4 +10,6 @@ tags:
   - Desktop Environment
   - Howto
 excludeSearch: false
+draft: false
+comments: true
 ---

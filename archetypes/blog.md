@@ -10,4 +10,6 @@ tags:
   - A.I.
   - Gadgets
 excludeSearch: false
+draft: false
+comments: true
 ---
