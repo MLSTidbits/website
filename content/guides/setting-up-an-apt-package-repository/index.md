@@ -142,7 +142,7 @@ gpg --default-key "Your Name" \
   --clearsign -o dists/stable/InRelease dists/stable/Release 2> /dev/null
 ```
 
-Replace `"Your Name"` with the name associated with your GPG key. This will create a detached signature file `Release.gpg` and a clearsigned `InRelease` file.
+Replace `"Your Name"` with the name associated with your GPG key. This will create a detached signature file `Release.gpg` and a clear signed `InRelease` file.
 
 ## Step 7: Test Your Repository Locally
 
@@ -195,7 +195,7 @@ Here I will cover GitHub Pages.
 
 3. **Enable GitHub Pages**: Go to the settings of your GitHub repository, navigate to the "Pages" section. Under 'Build and Deployment' you well see Source. Pull down the menu and select **GitHub Actions**. The build will take a couple minutes to complete. Once done, your repository will be available at `https://<your-github-username>.github.io/<your-repo-name>`.
 
-A basic GitHub Actions workflow using [Jykll](https://jekyllrb.com/) was created and the README.md is used as the index page. You can customize this as needed.
+A basic GitHub Actions workflow using [Jekyll](https://jekyllrb.com/) was created and the README.md is used as the index page. You can customize this as needed.
 
 On the client machines that will use your repository, update the APT sources list to point to your GitHub Pages URL.
 
