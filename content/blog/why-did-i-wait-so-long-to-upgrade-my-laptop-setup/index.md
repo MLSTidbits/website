@@ -56,7 +56,7 @@ I thought about getting a Dell WD19TB Thunderbolt Docking Station, however I wan
 |----------------------|-------------|--------------|------|------|
 | [Plugable UD-6950H](https://plugable.com/products/ud-6950h/) | $199.00 | Dual 4K DisplayPort/HDMI, USB-C and USB-A ports, Gigabit Ethernet | Good Linux support, Multiple video outputs | Bulky design |
 | [Plugable UD-6950PDH](https://plugable.com/products/ud-6950pdh/) | $179.99 | Dual 4K DisplayPort/HDMI, USB-C Power Delivery, USB-A ports, Gigabit Ethernet | Affordable, USB-C Power Delivery | No vertical stand |
-| [Plugable UD-3900PDZ ](https://plugable.com/products/ud-3900pdz/) | $149.99 | Triple display support, USB-C Power Delivery, USB-A ports, Gigabit Ethernet | 100W Power Delivery | Limited USB ports |
+| [Plugable UD-3900PDZ](https://plugable.com/products/ud-3900pdz/) | $149.99 | Triple display support, USB-C Power Delivery, USB-A ports, Gigabit Ethernet | 100W Power Delivery | Limited USB ports |
 
 **CalDigit Options:**
 
@@ -71,7 +71,9 @@ With the new docking station in place, I was able to connect both monitors via D
 
 So with that done I now had a clean and efficient laptop setup that improved my productivity and comfort. The dual monitors allowed me to multitask more effectively, and the wireless keyboard and mouse provided a more ergonomic typing experience. The desk mount helped to declutter my workspace, giving me more room to work.
 
-I was happy until I saw the [JLab Mechanical Keyboard](https://www.jlab.com/products/epic-mechanical-wireless-keyboard-black) on sale for 50% off at [Best Buy](https://www.bestbuy.com/) during Black Friday. I could not resist the deal; so I bought it to replace the perfectly good wireless keyboard that I got a month prior. You can read my full review of the keyboard [here](../my-view-on-the-jlab-mechanical-keyboard/). However when I got the keyboard I was unable to return the previous keyboard due because I was past the return window. So I sold it on [eBay](https://www.ebay.com/) in order to recoup some of the cost.
+I was happy until I saw the [JLab Mechanical Keyboard](https://www.jlab.com/products/epic-mechanical-wireless-keyboard-black) on sale for 50% off at [Best Buy](https://www.bestbuy.com/) during Black Friday. I could not resist the deal; so I bought it to replace the perfectly good wireless keyboard that I got a month prior. However when I got the keyboard I was unable to return the previous keyboard due because I was past the return window. So I sold it on [eBay](https://www.ebay.com/) in order to recoup some of the cost.
+
+Follow the link to read my full review of the [mechanical keyboard](../my-view-on-the-jlab-mechanical-keyboard/).
 
 The last step was to improve the lighting in my workspace. At first I thought that I did not have to pay no more the $20 USD for a basic desk monitor light. So I got a cheap [Quntis LED Monitor Light Bar](https://www.walmart.com/ip/Quntis-Computer-Monitor-Light-Bar-Screen-Light-with-Touch-Sensor-USB-LED-Desk-Lamp-Stepless-Screen-Monitor-Light-Bar-for-Eye-Caring/9087215539) from Walmart. While it worked, because it was cheaply made and had poor build quality, it set on top of the monitor unevenly and the lip that was supposed to hold it in place kept overhanging the edge of the monitor. So I opted for a better quality option from [Quntis](https://quntis.com/) directly. I went with the [Quntis ScreenLinear Pro](https://www.amazon.com/dp/B08DKQ3JG1) for $39.95 USD and got 2: One for each monitor. The plus for the ScreenLinear Pro is that it has a better build quality and a wireless remote control. Pairing both with one remote allows me to control both lights at the same time. The color temperature and brightness levels are adjustable, allowing me to create the perfect lighting environment for my workspace. how ever I turned the auto brightness feature on so that the light adjusts based on the ambient light in the room.
 
