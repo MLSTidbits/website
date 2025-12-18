@@ -17,3 +17,9 @@ MD036: false
 
 # First line in a file should be a top-level header
 MD041: false
+
+# Tables should have consistent column widths
+MD046: false
+
+# Headers should use atx-style
+MD060: false
