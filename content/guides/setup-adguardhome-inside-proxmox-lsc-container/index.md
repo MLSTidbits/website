@@ -2,12 +2,12 @@
 title: Setup AdGuardHome Inside Proxmox LXC Container
 date: 2025-12-19T20:29:48-07:00
 authors:
-  name: Michael Schaecher
-  image: /authors/Michael.jpg
+  - name: Michael Schaecher
+    image: /authors/Michael.jpg
 tags:
   - Proxmox
-  - Password Manager
-  - Guides
+  - Recursive DNS
+  - AdGuardHome + Unbound
 excludeSearch: false
 draft: false
 comments: true
