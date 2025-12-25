@@ -8,13 +8,13 @@ comments: false
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  Open Source is a Lifestyle
+  Empowering Users Through Open Source
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  Open source isn't just a development model—it's a lifestyle centered around collaboration, transparency, and shared progress.
+  Join us in promoting open-source software, right to repair, and user-friendly system modifications.
 {{< /hextra/hero-subtitle >}}
 </div>
 
