@@ -8,7 +8,7 @@ tags:
   - O.S.
   - Linux
   - Desktop Environment
-  - Howto
+  - How To
 excludeSearch: false
 draft: false
 comments: true
