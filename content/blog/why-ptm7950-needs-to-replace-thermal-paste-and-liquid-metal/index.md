@@ -1,6 +1,6 @@
 ---
 title: Why PTM7950 Needs to Replace Thermal Paste and Liquid Metal
-date: 2025-10-24T16:37:48-06:00
+date: 2025-10-24
 authors:
   - name: Michael Schaecher
     image: /authors/Michael.jpg

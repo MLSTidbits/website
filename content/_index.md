@@ -1,7 +1,7 @@
 ---
 date: '2025-07-30T19:25:05-06:00'
 draft: false
-title: Hextra Theme
+title: Home
 layout: hextra-home
 comments: false
 ---
@@ -48,7 +48,7 @@ comments: false
     title="Easy Mod"
     subtitle="Simplifying the process of modifying your system"
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
-    image="/images/average-user.jpg"
+    image="/images/average-user.png"
     imageClass="hx:top-[40%] hx:left-[36px] hx:w-[110%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}

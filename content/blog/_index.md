@@ -1,6 +1,7 @@
 ---
 title: "Blog"
-comments: false
+date: 2026-02-14T17:09:03-07:00
+draft: false
 ---
 
 <div style="text-align: center; margin-top: 1em;">
