@@ -5,6 +5,13 @@ draft: false
 comments: true
 ---
 
+<div style="text-align: center; margin-top: 1em;">
+{{< hextra/hero-badge link="index.xml" >}}
+  <span>RSS Feed</span>
+  {{< icon name="rss" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+</div>
+
 ## Introduction
 
 The guides are mostly written for me so that I can refer back to them when I need to. However, I also want to share them with the world in case they can be helpful to others. The guides are not meant to be comprehensive or exhaustive, but rather a collection of tips and tricks that I have found useful in my own work. They are also not meant to be a replacement for official documentation, but rather a supplement to it.
