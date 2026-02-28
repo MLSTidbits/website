@@ -4,6 +4,8 @@ languageCode: "en-us"
 
 copyright: "© 2024 MLS Tidbits. All rights reserved."
 
+enableInlineShortcodes: true
+
 # import hextra as module
 module:
   imports:
