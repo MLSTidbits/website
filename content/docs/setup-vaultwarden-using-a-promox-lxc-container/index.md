@@ -1,7 +1,7 @@
 ---
 title: Setup Vaultwarden Using a Proxmox LXC Container
-date: 2026-02-27T03:18:45-07:00
-draft: true
+date: 2026-03-01
+draft: false
 featuredImage: ""
 externalLink: ""
 ---
