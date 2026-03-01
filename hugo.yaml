@@ -90,7 +90,7 @@ params:
     displayPoweredBy: true
 
   editURL:
-    enable: true
+    enable: false
     base: "/"
 
   highlight:
