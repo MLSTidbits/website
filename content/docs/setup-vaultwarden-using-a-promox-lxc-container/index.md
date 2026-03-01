@@ -257,7 +257,7 @@ Now that you have imported your passwords, it is time to install the [Bitwarden]
 
 Make sure that self hosted is selected in the "Server URL" field of the extension settings and that the URL is set to the domain name or IP address of your Vaultwarden instance (e.g., <mark>https://vaultwarden.yourdomain.com</mark> or <mark>https://your-ip-address</mark>).
 
-> [!INFO]
+> [!NOTE]
 > **Bitwarden** is also available as a mobile app for [iOS](https://apps.apple.com/app/bitwarden-password-manager/id1137397744) and [Android](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) which can be used to access your passwords on the go. Just make sure to set the "Server URL" field in the app settings to the domain name or IP address of your Vaultwarden instance.
 >
 > Follow the same steps as above to log in to the app using the account you created in Vaultwarden and you should see all your passwords in the app as well.
