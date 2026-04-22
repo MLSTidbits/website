@@ -1,7 +1,7 @@
 ---
 title: Setup Ubuntu With Systemd Boot and Secure Boot
 date: 2026-04-22T00:59:10-06:00
-draft: true
+draft: false
 featuredImage: ""
 externalLink: ""
 ---
