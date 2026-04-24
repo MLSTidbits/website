@@ -23,3 +23,6 @@ MD046: false
 
 # Headers should use atx-style
 MD060: false
+
+# No hard tabs
+MD010: false
