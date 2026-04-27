@@ -20,7 +20,7 @@ A little over 15 years ago, I nearly bricked my first Android phone by rooting i
 
 When I started with Linux through [Ubuntu](https://ubuntu.com/), one option was [Wubi](https://wiki.ubuntu.com/Wubi) — a tool that let you install it on a Windows machine without partitioning your hard drive (no longer supported). I understand the appeal: lower the barrier, let people try Linux without the scary technical stuff. But it was exactly those technical details that needed to be addressed, not abstracted away. Twice I had to reinstall the entire system in under a month.
 
-![They use Ubuntu](https://i.redd.it/lvfjog9ux5l61.jpg)
+![They use Ubuntu](./they_use_ubuntu.jpg)
 
 That didn't stop me from using Ubuntu — I just went the traditional route and installed it on a separate partition.
 
