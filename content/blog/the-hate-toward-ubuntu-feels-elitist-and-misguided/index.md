@@ -1,6 +1,6 @@
 ---
 title: The Hate Toward Ubuntu Feels Elitist and Misguided
-date: 2026-04-26T021:38:21-06:00
+date: 2026-04-26T21:38:21-06:00
 authors:
   - name: Michael Schaecher
     image: /authors/Michael.jpg
