@@ -1,6 +1,6 @@
 ---
 title: Setup Ubuntu With Systemd Boot and Secure Boot
-date: 2026-04-22T00:59:10-06:00
+date: 2026-05-02T03:51:25-06:00
 draft: false
 featuredImage: ""
 externalLink: ""
@@ -155,10 +155,18 @@ for module in /lib/modules/$(uname -r)/updates/dkms/*.ko.zst; do
     zstd -d "$module" -c | /usr/scr/linux-headers-$(uname -r)/scripts/sign-file sha256 \
         /var/lib/sbctl/keys/db/db.key \
         /var/lib/sbctl/keys/db/db.pem
+    zstd -f $module
+    rm -f $module
 done
 ```
 
-In order to ensure that new DKMS modules are automatically signed with the correct keys when built, a conf file will need to be created. Create a file named `sbctl.conf` in the `/etc/dkms/framework.conf.d/` directory with the following content:
+In order to ensure that new DKMS modules are automatically signed with the correct keys when built: Two thinks need to be done. The first is to create a `der` certificate that *kmodsign* requires. The second is to create an *dkms* `sbctl.conf` file in the `/etc/dkms/framework.conf.d/` directory with the following content:
+
+```console
+openssl x509 -in /var/lib/sbctl/keys/db/db.pem -outform DER -out /var/lib/sbctl/keys/db/db.der
+```
+
+Creating the config file.
 
 ```ini {filename="/etc/dkms/framework.conf.d/sbctl.conf"}
 # Path to the generated keys from sbctl setup
@@ -170,19 +178,9 @@ mok_certificate="/var/lib/sbctl/keys/db/db.pem"
 
 To verify that everything is working correctly, you can check the following:
 
-- Check that systemd-boot is being used as the bootloader by running the following command:
+- Check that systemd-boot is being used as the bootloader by running the following command: `bootctl` and `efibootmgr`.
 
-```bash
-bootctl
-```
-
-And
-
-```bash
-efibootmgr
-```
-
-You should see something like this in the output of `efibootmgr`:
+You should see something like this in the output of `efibootmgr`: Notice how **\EFI\systemd-bootx64.efi** is last in the string that is what you are looking for.
 
 ```console {filename="efibootmgr"}
 BootCurrent: 0000
