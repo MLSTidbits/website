@@ -171,7 +171,8 @@ Creating the config file.
 ```ini {filename="/etc/dkms/framework.conf.d/sbctl.conf"}
 # Path to the generated keys from sbctl setup
 mok_signing_key="/var/lib/sbctl/keys/db/db.key"
-mok_certificate="/var/lib/sbctl/keys/db/db.der"
+mok_certificate="/var/lib/sbctl/keys/db/db.der
+"
 ```
 
 ## Step 4: Verify Everything is Working
